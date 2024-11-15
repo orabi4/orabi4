@@ -34,5 +34,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orabi4&show_icons=true&locale=en" alt="orabi4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orabi4&" alt="orabi4" /></p>
+<h3 align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
+
+</h3>
 
