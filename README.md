@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ِadel kassem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ِadel kassem" height="30" width="40" /></a>
-<a href="https://fb.com/adel m kassem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adel m kassem" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%D9%90adel-kassem-454733275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ِadel kassem" height="30" width="40" /></a>
+<a href="https://www.facebook.com/adel.elgentel.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adel m kassem" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dola77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dola77" height="30" width="40" /></a>
 </p>
 
